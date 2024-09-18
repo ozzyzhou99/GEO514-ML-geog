@@ -66,7 +66,7 @@ To run these labs, ensure you have the following Python packages installed:
 pip install geopandas rasterio folium geopy scikit-learn numpy matplotlib pandas
 ```
 
-##Usage
+## Usage
 
 Clone the repository and run the .py or .ipynb files using a Python environment or Jupyter Notebook. Each lab includes detailed code and comments explaining the tasks. Ensure the input data files are available in the expected directories.
 ```bash
